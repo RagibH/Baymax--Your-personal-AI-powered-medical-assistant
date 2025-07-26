@@ -1,0 +1,401 @@
+S/L,Post,Provider,Division,District,Upazila,Professional,ContactNo,Address,Degree,Department
+1,Medical Officer,Shahidul Siddique,Dhaka,Gazipur,Gazipur Sadar,Surgeon,1828873590,Shaheed Ahsan Ullah Master General Hospital,FCPS,Ophthalmology
+2,Medical Officer,Rezaul Mia,Dhaka,Narayanganj,Rupganj,Resident,1614560144,Narayanganj 300 Bed Hospital,MS,Oncology
+3,General Physician,Nazmul Hasan,Dhaka,Gazipur,Gazipur Sadar,Resident,1879878832,Shaheed Ahsan Ullah Master General Hospital,MRCP,General Surgery
+4,Resident,Lubna Rahman,Dhaka,Gazipur,Tongi,Medical Officer,1684233015,Shaheed Ahsan Ullah Master General Hospital,FCPS,Ophthalmology
+5,Medical Officer,Jamal Ahmed,Dhaka,Narayanganj,Sonargaon,Resident,1826568404,Narayanganj 300 Bed Hospital,MD,Pediatrics
+6,General Physician,Lubna Haque,Dhaka,Narayanganj,Sonargaon,General Physician,1995737443,Narayanganj 300 Bed Hospital,FRCS,Gastroenterology
+7,Surgeon,Asma Haque,Dhaka,Narayanganj,Rupganj,Surgeon,1741247230,Narayanganj 300 Bed Hospital,MS,Gastroenterology
+8,Consultant,Rezaul Islam,Dhaka,Dhaka,Uttara,General Physician,1763392878,Evercare Hospital Dhaka,MS,Psychiatry
+9,Surgeon,Asma Ahmed,Dhaka,Gazipur,Gazipur Sadar,Resident,1797365254,Shaheed Ahsan Ullah Master General Hospital,MS,Pediatrics
+10,Consultant,Rezaul Khan,Dhaka,Gazipur,Tongi,General Physician,1869678395,Shaheed Ahsan Ullah Master General Hospital,FRCS,ENT
+11,Resident,Shamim Ahmed,Dhaka,Gazipur,Gazipur Sadar,Consultant,1916522449,Shaheed Ahsan Ullah Master General Hospital,FRCS,Gastroenterology
+12,General Physician,Sharmin Mia,Dhaka,Gazipur,Tongi,Consultant,1504425192,Shaheed Ahsan Ullah Master General Hospital,MD,Gynecology
+13,Medical Officer,Nazmul Mia,Dhaka,Gazipur,Tongi,Medical Officer,1688560688,Shaheed Ahsan Ullah Master General Hospital,MD,Dermatology
+14,Medical Officer,Asma Khan,Dhaka,Gazipur,Gazipur Sadar,Consultant,1964012122,Shaheed Ahsan Ullah Master General Hospital,MRCP,Neurology
+15,Consultant,Shahidul Begum,Dhaka,Dhaka,Uttara,Surgeon,1555818671,Evercare Hospital Dhaka,MBBS,Orthopedics
+16,Resident,Jamal Siddique,Dhaka,Gazipur,Gazipur Sadar,General Physician,1586769712,Shaheed Ahsan Ullah Master General Hospital,MD,General Medicine
+17,Resident,Asma Islam,Dhaka,Narayanganj,Rupganj,Consultant,1673441673,Narayanganj 300 Bed Hospital,FCPS,Dermatology
+18,Consultant,Shahidul Rahman,Dhaka,Dhaka,Dhanmondi,Consultant,1916478446,"Northern International Medical College Hospital, Diagnostic Centre",MS,Gynecology
+19,Surgeon,Tanvir Rahman,Dhaka,Dhaka,Uttara,Surgeon,1700987500,Evercare Hospital Dhaka,MS,Oncology
+20,Resident,Tanvir Begum,Dhaka,Dhaka,Mirpur,General Physician,1761118663,"Ibrahim General Hospital, Mirpur",MRCP,Pediatrics
+21,Medical Officer,Shahidul Begum,Dhaka,Dhaka,Uttara,General Physician,1566859582,Evercare Hospital Dhaka,MBBS,Gynecology
+22,Consultant,Rezaul Ahmed,Dhaka,Dhaka,Uttara,Medical Officer,1781261196,Evercare Hospital Dhaka,FCPS,ENT
+23,Resident,Nazmul Khan,Dhaka,Narayanganj,Sonargaon,Consultant,1642426886,Narayanganj 300 Bed Hospital,FCPS,Ophthalmology
+24,Resident,Shamim Islam,Dhaka,Dhaka,Dhanmondi,Resident,1578104622,"Northern International Medical College Hospital, Diagnostic Centre",MS,Dermatology
+25,Medical Officer,Asma Chowdhury,Dhaka,Narayanganj,Sonargaon,Surgeon,1515258015,Narayanganj 300 Bed Hospital,FCPS,Pediatrics
+26,Medical Officer,Lubna Islam,Dhaka,Narayanganj,Sonargaon,General Physician,1995423290,Narayanganj 300 Bed Hospital,MRCP,Ophthalmology
+27,General Physician,Fahmida Chowdhury,Dhaka,Gazipur,Tongi,Surgeon,1695267710,Shaheed Ahsan Ullah Master General Hospital,FCPS,Nephrology
+28,General Physician,Shahidul Mia,Dhaka,Gazipur,Tongi,Medical Officer,1954161213,Shaheed Ahsan Ullah Master General Hospital,MRCP,Gastroenterology
+29,Surgeon,Tanvir Sultana,Dhaka,Narayanganj,Sonargaon,Resident,1570828447,Narayanganj 300 Bed Hospital,FRCS,Pediatrics
+30,Surgeon,Shahidul Khan,Dhaka,Gazipur,Gazipur Sadar,Surgeon,1527600324,Shaheed Ahsan Ullah Master General Hospital,FRCS,General Surgery
+31,Surgeon,Shahidul Chowdhury,Dhaka,Gazipur,Gazipur Sadar,General Physician,1592903721,Shaheed Ahsan Ullah Master General Hospital,MRCP,Neurology
+32,General Physician,Tanvir Khan,Dhaka,Gazipur,Gazipur Sadar,General Physician,1905283106,Shaheed Ahsan Ullah Master General Hospital,MBBS,Neurology
+33,Medical Officer,Nazmul Chowdhury,Dhaka,Dhaka,Mirpur,Consultant,1737685738,"Ibrahim General Hospital, Mirpur",MRCP,Pediatrics
+34,General Physician,Shamim Begum,Dhaka,Gazipur,Tongi,Resident,1735618014,Shaheed Ahsan Ullah Master General Hospital,FCPS,General Surgery
+35,Consultant,Tanvir Begum,Dhaka,Dhaka,Mirpur,Consultant,1512608025,"Ibrahim General Hospital, Mirpur",MD,Gynecology
+36,General Physician,Sharmin Islam,Dhaka,Dhaka,Mirpur,Resident,1772314642,"Ibrahim General Hospital, Mirpur",MS,Pediatrics
+37,Surgeon,Lubna Islam,Dhaka,Dhaka,Uttara,General Physician,1509218141,Evercare Hospital Dhaka,FRCS,Gastroenterology
+38,General Physician,Shahidul Islam,Dhaka,Gazipur,Tongi,Medical Officer,1887163751,Shaheed Ahsan Ullah Master General Hospital,MS,Gynecology
+39,Surgeon,Shamim Islam,Dhaka,Gazipur,Gazipur Sadar,Resident,1727787467,Shaheed Ahsan Ullah Master General Hospital,MS,ENT
+40,Medical Officer,Tanvir Rahman,Dhaka,Gazipur,Gazipur Sadar,Resident,1511451632,Shaheed Ahsan Ullah Master General Hospital,MBBS,General Medicine
+41,Consultant,Lubna Siddique,Dhaka,Narayanganj,Sonargaon,Surgeon,1971943381,Narayanganj 300 Bed Hospital,MRCP,Urology
+42,Surgeon,Fahmida Sultana,Dhaka,Gazipur,Gazipur Sadar,General Physician,1772485213,Shaheed Ahsan Ullah Master General Hospital,MS,Ophthalmology
+43,Resident,Shahidul Chowdhury,Dhaka,Narayanganj,Rupganj,General Physician,1960603032,Narayanganj 300 Bed Hospital,MBBS,Nephrology
+44,Surgeon,Asma Haque,Dhaka,Dhaka,Mirpur,General Physician,1525937298,"Ibrahim General Hospital, Mirpur",MRCP,Pediatrics
+45,Consultant,Asma Islam,Dhaka,Dhaka,Dhanmondi,Surgeon,1745929227,"Northern International Medical College Hospital, Diagnostic Centre",MRCP,Urology
+46,Medical Officer,Shahidul Siddique,Dhaka,Narayanganj,Rupganj,Surgeon,1598219535,Narayanganj 300 Bed Hospital,FRCS,General Surgery
+47,Resident,Asma Siddique,Dhaka,Dhaka,Mirpur,Consultant,1562052594,"Ibrahim General Hospital, Mirpur",MRCP,Orthopedics
+48,Medical Officer,Fahmida Haque,Dhaka,Dhaka,Uttara,Resident,1918844746,Evercare Hospital Dhaka,FRCS,Urology
+49,Surgeon,Nazmul Haque,Dhaka,Gazipur,Gazipur Sadar,Surgeon,1657618801,Shaheed Ahsan Ullah Master General Hospital,MBBS,Urology
+50,Consultant,Rezaul Sultana,Dhaka,Gazipur,Gazipur Sadar,Resident,1601616990,Shaheed Ahsan Ullah Master General Hospital,MBBS,Pediatrics
+51,Consultant,Asma Islam,Dhaka,Narayanganj,Rupganj,General Physician,1591895948,Narayanganj 300 Bed Hospital,FCPS,Pediatrics
+52,Surgeon,Fahmida Mia,Dhaka,Dhaka,Mirpur,Consultant,1784880621,"Ibrahim General Hospital, Mirpur",MD,Urology
+53,Surgeon,Jamal Islam,Dhaka,Narayanganj,Rupganj,Consultant,1904240976,Narayanganj 300 Bed Hospital,FCPS,Urology
+54,Consultant,Asma Mia,Dhaka,Dhaka,Uttara,Surgeon,1554479465,Evercare Hospital Dhaka,FRCS,Oncology
+55,Surgeon,Shamim Haque,Dhaka,Gazipur,Gazipur Sadar,Surgeon,1625140397,Shaheed Ahsan Ullah Master General Hospital,MBBS,Psychiatry
+56,Surgeon,Tanvir Chowdhury,Dhaka,Dhaka,Dhanmondi,Consultant,1697042867,"Northern International Medical College Hospital, Diagnostic Centre",FCPS,General Medicine
+57,Resident,Shamim Begum,Dhaka,Narayanganj,Sonargaon,Medical Officer,1725887282,Narayanganj 300 Bed Hospital,FCPS,Dermatology
+58,Medical Officer,Shahidul Islam,Dhaka,Gazipur,Tongi,Surgeon,1722563923,Shaheed Ahsan Ullah Master General Hospital,MS,Neurology
+59,Resident,Jamal Begum,Dhaka,Narayanganj,Rupganj,Resident,1748791377,Narayanganj 300 Bed Hospital,MRCP,General Surgery
+60,Consultant,Shahidul Haque,Dhaka,Dhaka,Uttara,Medical Officer,1597717340,Evercare Hospital Dhaka,FRCS,General Medicine
+61,Surgeon,Shahidul Khan,Dhaka,Dhaka,Uttara,Consultant,1994684084,Evercare Hospital Dhaka,MS,Nephrology
+62,Medical Officer,Shahidul Chowdhury,Dhaka,Gazipur,Tongi,General Physician,1826233486,Shaheed Ahsan Ullah Master General Hospital,MD,Pediatrics
+63,General Physician,Asma Siddique,Dhaka,Narayanganj,Sonargaon,General Physician,1646263264,Narayanganj 300 Bed Hospital,MD,Gynecology
+64,Surgeon,Jamal Haque,Dhaka,Dhaka,Dhanmondi,Surgeon,1968499313,"Northern International Medical College Hospital, Diagnostic Centre",MBBS,Dermatology
+65,General Physician,Rezaul Siddique,Dhaka,Narayanganj,Rupganj,General Physician,1770716460,Narayanganj 300 Bed Hospital,MBBS,General Medicine
+66,General Physician,Asma Khan,Dhaka,Dhaka,Mirpur,Surgeon,1636293243,"Ibrahim General Hospital, Mirpur",FRCS,Urology
+67,Surgeon,Lubna Ahmed,Dhaka,Gazipur,Tongi,General Physician,1619182191,Shaheed Ahsan Ullah Master General Hospital,FRCS,Nephrology
+68,Surgeon,Lubna Rahman,Dhaka,Dhaka,Dhanmondi,Consultant,1975686315,"Northern International Medical College Hospital, Diagnostic Centre",MRCP,Urology
+69,General Physician,Nazmul Ahmed,Dhaka,Narayanganj,Sonargaon,Surgeon,1779645943,Narayanganj 300 Bed Hospital,MBBS,Neurology
+70,Medical Officer,Sharmin Khan,Dhaka,Gazipur,Gazipur Sadar,Consultant,1630960042,Shaheed Ahsan Ullah Master General Hospital,FCPS,General Surgery
+71,Consultant,Rezaul Sultana,Dhaka,Gazipur,Tongi,Surgeon,1517644251,Shaheed Ahsan Ullah Master General Hospital,FRCS,Nephrology
+72,Medical Officer,Shahidul Khan,Dhaka,Narayanganj,Rupganj,Consultant,1503104677,Narayanganj 300 Bed Hospital,MD,General Medicine
+73,Medical Officer,Nazmul Haque,Dhaka,Narayanganj,Rupganj,Resident,1645059679,Narayanganj 300 Bed Hospital,MS,Pediatrics
+74,Surgeon,Nazmul Mia,Dhaka,Dhaka,Uttara,Surgeon,1790294425,Evercare Hospital Dhaka,MBBS,Ophthalmology
+75,Resident,Lubna Rahman,Dhaka,Dhaka,Uttara,Consultant,1819242152,Evercare Hospital Dhaka,MS,General Medicine
+76,Surgeon,Nazmul Rahman,Dhaka,Dhaka,Dhanmondi,Medical Officer,1990004682,"Northern International Medical College Hospital, Diagnostic Centre",MD,Oncology
+77,Medical Officer,Lubna Sultana,Dhaka,Dhaka,Dhanmondi,Medical Officer,1824794640,"Northern International Medical College Hospital, Diagnostic Centre",MRCP,Psychiatry
+78,General Physician,Rezaul Islam,Dhaka,Dhaka,Dhanmondi,Consultant,1573148455,"Northern International Medical College Hospital, Diagnostic Centre",FCPS,Urology
+79,Resident,Nazmul Chowdhury,Dhaka,Narayanganj,Rupganj,Consultant,1523139142,Narayanganj 300 Bed Hospital,FRCS,General Surgery
+80,Surgeon,Nazmul Chowdhury,Dhaka,Gazipur,Tongi,General Physician,1713361379,Shaheed Ahsan Ullah Master General Hospital,MBBS,Orthopedics
+81,General Physician,Fahmida Sultana,Dhaka,Gazipur,Gazipur Sadar,Consultant,1592467764,Shaheed Ahsan Ullah Master General Hospital,FCPS,Ophthalmology
+82,Medical Officer,Shamim Khan,Dhaka,Gazipur,Tongi,Surgeon,1874822076,Shaheed Ahsan Ullah Master General Hospital,FCPS,Gynecology
+83,General Physician,Tanvir Begum,Dhaka,Gazipur,Gazipur Sadar,General Physician,1569682141,Shaheed Ahsan Ullah Master General Hospital,MBBS,Oncology
+84,Consultant,Nazmul Chowdhury,Dhaka,Gazipur,Tongi,Surgeon,1954203178,Shaheed Ahsan Ullah Master General Hospital,FRCS,Urology
+85,Consultant,Lubna Siddique,Dhaka,Narayanganj,Sonargaon,Consultant,1688145681,Narayanganj 300 Bed Hospital,FRCS,Neurology
+86,Medical Officer,Lubna Khan,Dhaka,Narayanganj,Sonargaon,Resident,1941967986,Narayanganj 300 Bed Hospital,FCPS,Orthopedics
+87,Resident,Nazmul Chowdhury,Dhaka,Dhaka,Mirpur,General Physician,1828004543,"Ibrahim General Hospital, Mirpur",MRCP,Ophthalmology
+88,Medical Officer,Shamim Mia,Dhaka,Dhaka,Mirpur,General Physician,1640188716,"Ibrahim General Hospital, Mirpur",FRCS,Urology
+89,Consultant,Rezaul Chowdhury,Dhaka,Dhaka,Dhanmondi,Surgeon,1997067684,"Northern International Medical College Hospital, Diagnostic Centre",MS,General Medicine
+90,Medical Officer,Jamal Mia,Dhaka,Narayanganj,Sonargaon,Surgeon,1698065480,Narayanganj 300 Bed Hospital,MS,Nephrology
+91,Medical Officer,Tanvir Chowdhury,Dhaka,Gazipur,Tongi,Consultant,1781945075,Shaheed Ahsan Ullah Master General Hospital,MS,Nephrology
+92,Resident,Jamal Rahman,Dhaka,Gazipur,Gazipur Sadar,Medical Officer,1955426822,Shaheed Ahsan Ullah Master General Hospital,MBBS,General Surgery
+93,Resident,Lubna Haque,Dhaka,Narayanganj,Sonargaon,Resident,1735546579,Narayanganj 300 Bed Hospital,MS,Neurology
+94,Surgeon,Sharmin Haque,Dhaka,Dhaka,Dhanmondi,Consultant,1520299548,"Northern International Medical College Hospital, Diagnostic Centre",MS,Psychiatry
+95,General Physician,Tanvir Khan,Dhaka,Dhaka,Dhanmondi,General Physician,1899973474,"Northern International Medical College Hospital, Diagnostic Centre",MBBS,Neurology
+96,Resident,Sharmin Mia,Dhaka,Dhaka,Dhanmondi,Consultant,1814503614,"Northern International Medical College Hospital, Diagnostic Centre",MRCP,Dermatology
+97,Resident,Sharmin Rahman,Dhaka,Narayanganj,Sonargaon,General Physician,1934269459,Narayanganj 300 Bed Hospital,FRCS,Psychiatry
+98,Medical Officer,Jamal Haque,Dhaka,Gazipur,Gazipur Sadar,Consultant,1635667804,Shaheed Ahsan Ullah Master General Hospital,MS,Gynecology
+99,Resident,Fahmida Sultana,Dhaka,Narayanganj,Sonargaon,General Physician,1996166087,Narayanganj 300 Bed Hospital,MRCP,General Medicine
+100,Surgeon,Lubna Rahman,Dhaka,Narayanganj,Rupganj,Medical Officer,1962527973,Narayanganj 300 Bed Hospital,MD,Oncology
+101,Medical Officer,Shahidul Islam,Sylhet,Sylhet,Sylhet Sadar,Medical Officer,1740793783,Sylhet MAG Osmani Hospital,MS,General Medicine
+102,Resident,Sharmin Sultana,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1952444489,Sylhet MAG Osmani Hospital,MS,Psychiatry
+103,Resident,Rezaul Siddique,Sylhet,Sylhet,Sylhet Sadar,Medical Officer,1799302511,Sylhet MAG Osmani Hospital,MBBS,Ophthalmology
+104,General Physician,Shahidul Siddique,Sylhet,Habiganj,Chunarughat,General Physician,1544645180,Chunarughat Upazila Health Complex,MRCP,Gastroenterology
+105,Resident,Sharmin Sultana,Sylhet,Habiganj,Chunarughat,General Physician,1505931899,Chunarughat Upazila Health Complex,MBBS,Pediatrics
+106,Surgeon,Asma Haque,Sylhet,Habiganj,Chunarughat,Surgeon,1885948237,Chunarughat Upazila Health Complex,FRCS,Pediatrics
+107,Medical Officer,Nazmul Islam,Sylhet,Habiganj,Chunarughat,Medical Officer,1898119998,Chunarughat Upazila Health Complex,FRCS,Dermatology
+108,Consultant,Rezaul Hasan,Sylhet,Habiganj,Chunarughat,Consultant,1619148100,Chunarughat Upazila Health Complex,FCPS,Oncology
+109,Surgeon,Tanvir Haque,Sylhet,Habiganj,Ajmiriganj,Resident,1904342759,Ajmiriganj Upazila Hospital,MBBS,Orthopedics
+110,General Physician,Tanvir Haque,Sylhet,Habiganj,Ajmiriganj,Consultant,1928451589,Ajmiriganj Upazila Hospital,MS,Psychiatry
+111,Medical Officer,Lubna Rahman,Sylhet,Habiganj,Ajmiriganj,Resident,1749575679,Ajmiriganj Upazila Hospital,FRCS,Gastroenterology
+112,Medical Officer,Fahmida Mia,Sylhet,Sylhet,Zakiganj,Surgeon,1930155194,Zakiganj Upazila Health Complex,MRCP,General Surgery
+113,Resident,Fahmida Siddique,Sylhet,Sylhet,Sylhet Sadar,Resident,1763410021,Sylhet MAG Osmani Hospital,MS,General Medicine
+114,Medical Officer,Nazmul Haque,Sylhet,Habiganj,Chunarughat,Surgeon,1501454508,Chunarughat Upazila Health Complex,MS,Pediatrics
+115,Medical Officer,Rezaul Sultana,Sylhet,Habiganj,Ajmiriganj,Resident,1999071061,Ajmiriganj Upazila Hospital,MBBS,Gastroenterology
+116,Surgeon,Fahmida Islam,Sylhet,Moulvibazar,Kamalganj,Resident,1870943849,Kamalganj Upazilla Health Complex,MRCP,Psychiatry
+117,Surgeon,Fahmida Sultana,Sylhet,Moulvibazar,Sreemangal,General Physician,1564752157,Mukti Medical Clinic,MS,General Surgery
+118,Consultant,Shahidul Ahmed,Sylhet,Habiganj,Chunarughat,Resident,1633639266,Chunarughat Upazila Health Complex,MS,ENT
+119,General Physician,Nazmul Mia,Sylhet,Sylhet,Zakiganj,Medical Officer,1838988660,Zakiganj Upazila Health Complex,MBBS,Nephrology
+120,General Physician,Shahidul Khan,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1590557245,Sylhet MAG Osmani Hospital,MBBS,Gastroenterology
+121,Surgeon,Nazmul Siddique,Sylhet,Moulvibazar,Kamalganj,Resident,1832474951,Kamalganj Upazilla Health Complex,MRCP,Psychiatry
+122,Surgeon,Nazmul Haque,Sylhet,Habiganj,Chunarughat,General Physician,1940973998,Chunarughat Upazila Health Complex,MRCP,ENT
+123,Resident,Shamim Haque,Sylhet,Habiganj,Ajmiriganj,General Physician,1587045511,Ajmiriganj Upazila Hospital,MD,Orthopedics
+124,General Physician,Asma Sultana,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1618517459,Sylhet MAG Osmani Hospital,MRCP,Dermatology
+125,Surgeon,Tanvir Chowdhury,Sylhet,Habiganj,Chunarughat,Resident,1840929210,Chunarughat Upazila Health Complex,FCPS,Psychiatry
+126,Medical Officer,Tanvir Ahmed,Sylhet,Habiganj,Chunarughat,Consultant,1679709009,Chunarughat Upazila Health Complex,MBBS,General Medicine
+127,Medical Officer,Asma Begum,Sylhet,Habiganj,Chunarughat,Medical Officer,1575660671,Chunarughat Upazila Health Complex,MRCP,General Surgery
+128,Consultant,Rezaul Siddique,Sylhet,Habiganj,Ajmiriganj,Consultant,1974319303,Ajmiriganj Upazila Hospital,FRCS,Nephrology
+129,Medical Officer,Nazmul Chowdhury,Sylhet,Sylhet,Sylhet Sadar,Resident,1721077134,Sylhet MAG Osmani Hospital,FRCS,Oncology
+130,Surgeon,Fahmida Rahman,Sylhet,Habiganj,Ajmiriganj,Medical Officer,1564119265,Ajmiriganj Upazila Hospital,FCPS,Ophthalmology
+131,General Physician,Asma Begum,Sylhet,Sylhet,Sylhet Sadar,Resident,1545013116,Sylhet MAG Osmani Hospital,FCPS,General Surgery
+132,General Physician,Nazmul Haque,Sylhet,Moulvibazar,Sreemangal,Consultant,1978351869,Mukti Medical Clinic,FRCS,Neurology
+133,Resident,Nazmul Begum,Sylhet,Habiganj,Ajmiriganj,Resident,1573121039,Ajmiriganj Upazila Hospital,MS,ENT
+134,Resident,Jamal Khan,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1678241869,Sylhet MAG Osmani Hospital,FRCS,Neurology
+135,Surgeon,Tanvir Rahman,Sylhet,Habiganj,Chunarughat,Surgeon,1589619916,Chunarughat Upazila Health Complex,FCPS,Orthopedics
+136,General Physician,Shamim Chowdhury,Sylhet,Moulvibazar,Sreemangal,Surgeon,1882297812,Mukti Medical Clinic,FRCS,Oncology
+137,Medical Officer,Sharmin Begum,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1639423279,Sylhet MAG Osmani Hospital,MS,Oncology
+138,Resident,Sharmin Rahman,Sylhet,Moulvibazar,Sreemangal,General Physician,1783547554,Mukti Medical Clinic,MS,Orthopedics
+139,Medical Officer,Shamim Chowdhury,Sylhet,Habiganj,Ajmiriganj,General Physician,1683278086,Ajmiriganj Upazila Hospital,FRCS,Neurology
+140,Surgeon,Sharmin Rahman,Sylhet,Habiganj,Ajmiriganj,Resident,1559197769,Ajmiriganj Upazila Hospital,FCPS,Orthopedics
+141,Consultant,Shahidul Khan,Sylhet,Habiganj,Ajmiriganj,Resident,1710729839,Ajmiriganj Upazila Hospital,FCPS,Gastroenterology
+142,General Physician,Rezaul Khan,Sylhet,Sylhet,Sylhet Sadar,General Physician,1978095401,Sylhet MAG Osmani Hospital,MRCP,Pediatrics
+143,Resident,Rezaul Ahmed,Sylhet,Habiganj,Chunarughat,Resident,1890714441,Chunarughat Upazila Health Complex,FCPS,Gastroenterology
+144,Consultant,Jamal Islam,Sylhet,Moulvibazar,Kamalganj,General Physician,1553250528,Kamalganj Upazilla Health Complex,MS,Gastroenterology
+145,Resident,Shamim Rahman,Sylhet,Moulvibazar,Kamalganj,Medical Officer,1807199209,Kamalganj Upazilla Health Complex,MBBS,Urology
+146,Medical Officer,Shahidul Islam,Sylhet,Habiganj,Chunarughat,General Physician,1635516787,Chunarughat Upazila Health Complex,FCPS,Psychiatry
+147,Consultant,Sharmin Haque,Sylhet,Moulvibazar,Sreemangal,Resident,1971942640,Mukti Medical Clinic,MRCP,Gynecology
+148,Medical Officer,Fahmida Khan,Sylhet,Sylhet,Zakiganj,General Physician,1926658942,Zakiganj Upazila Health Complex,FCPS,Nephrology
+149,Surgeon,Asma Chowdhury,Sylhet,Moulvibazar,Kamalganj,Surgeon,1814749936,Kamalganj Upazilla Health Complex,FCPS,Nephrology
+150,Resident,Shahidul Sultana,Sylhet,Habiganj,Chunarughat,Surgeon,1563877080,Chunarughat Upazila Health Complex,FRCS,Gastroenterology
+151,Surgeon,Lubna Islam,Sylhet,Moulvibazar,Kamalganj,Medical Officer,1664493628,Kamalganj Upazilla Health Complex,MS,Urology
+152,Consultant,Shamim Mia,Sylhet,Moulvibazar,Kamalganj,Consultant,1980355694,Kamalganj Upazilla Health Complex,FCPS,Urology
+153,Resident,Lubna Sultana,Sylhet,Sylhet,Sylhet Sadar,General Physician,1510966225,Sylhet MAG Osmani Hospital,MBBS,General Surgery
+154,Consultant,Nazmul Haque,Sylhet,Habiganj,Ajmiriganj,Consultant,1534967746,Ajmiriganj Upazila Hospital,MRCP,Psychiatry
+155,Resident,Fahmida Islam,Sylhet,Habiganj,Ajmiriganj,Medical Officer,1590859783,Ajmiriganj Upazila Hospital,MRCP,Gynecology
+156,Surgeon,Asma Ahmed,Sylhet,Sylhet,Sylhet Sadar,General Physician,1708575714,Sylhet MAG Osmani Hospital,MD,General Surgery
+157,General Physician,Fahmida Khan,Sylhet,Sylhet,Zakiganj,Surgeon,1675736543,Zakiganj Upazila Health Complex,MRCP,Orthopedics
+158,Consultant,Tanvir Rahman,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1831576938,Sylhet MAG Osmani Hospital,FCPS,General Medicine
+159,Medical Officer,Lubna Begum,Sylhet,Habiganj,Ajmiriganj,Resident,1673596229,Ajmiriganj Upazila Hospital,FRCS,Nephrology
+160,General Physician,Rezaul Sultana,Sylhet,Sylhet,Sylhet Sadar,Medical Officer,1566771627,Sylhet MAG Osmani Hospital,FRCS,Urology
+161,General Physician,Jamal Siddique,Sylhet,Habiganj,Chunarughat,Medical Officer,1779743887,Chunarughat Upazila Health Complex,FCPS,Oncology
+162,Medical Officer,Asma Chowdhury,Sylhet,Sylhet,Zakiganj,Surgeon,1948710610,Zakiganj Upazila Health Complex,MS,Nephrology
+163,Medical Officer,Sharmin Begum,Sylhet,Moulvibazar,Kamalganj,Consultant,1537319482,Kamalganj Upazilla Health Complex,FCPS,Orthopedics
+164,General Physician,Shamim Ahmed,Sylhet,Moulvibazar,Sreemangal,General Physician,1577300133,Mukti Medical Clinic,MBBS,Dermatology
+165,Medical Officer,Tanvir Chowdhury,Sylhet,Habiganj,Chunarughat,Medical Officer,1870177923,Chunarughat Upazila Health Complex,MBBS,General Surgery
+166,Consultant,Asma Ahmed,Sylhet,Habiganj,Chunarughat,Surgeon,1741567565,Chunarughat Upazila Health Complex,MS,Gynecology
+167,Consultant,Lubna Khan,Sylhet,Sylhet,Zakiganj,Medical Officer,1746583502,Zakiganj Upazila Health Complex,MS,Orthopedics
+168,General Physician,Jamal Rahman,Sylhet,Moulvibazar,Kamalganj,Resident,1561959046,Kamalganj Upazilla Health Complex,MRCP,ENT
+169,Resident,Shamim Islam,Sylhet,Moulvibazar,Sreemangal,Resident,1787986060,Mukti Medical Clinic,MS,Orthopedics
+170,Resident,Tanvir Khan,Sylhet,Habiganj,Chunarughat,Resident,1654581487,Chunarughat Upazila Health Complex,FRCS,Dermatology
+171,Consultant,Jamal Sultana,Sylhet,Habiganj,Chunarughat,General Physician,1873379180,Chunarughat Upazila Health Complex,FRCS,ENT
+172,General Physician,Rezaul Begum,Sylhet,Sylhet,Zakiganj,General Physician,1552628441,Zakiganj Upazila Health Complex,MBBS,General Surgery
+173,Surgeon,Jamal Haque,Sylhet,Moulvibazar,Sreemangal,Medical Officer,1908407816,Mukti Medical Clinic,FCPS,Dermatology
+174,Resident,Tanvir Begum,Sylhet,Habiganj,Chunarughat,Resident,1566813093,Chunarughat Upazila Health Complex,MS,General Surgery
+175,Resident,Tanvir Siddique,Sylhet,Sylhet,Sylhet Sadar,Resident,1671927345,Sylhet MAG Osmani Hospital,FRCS,Psychiatry
+176,Surgeon,Sharmin Sultana,Sylhet,Sylhet,Sylhet Sadar,Resident,1536849742,Sylhet MAG Osmani Hospital,MBBS,Nephrology
+177,Medical Officer,Sharmin Chowdhury,Sylhet,Moulvibazar,Sreemangal,General Physician,1855704105,Mukti Medical Clinic,FRCS,Urology
+178,Consultant,Asma Begum,Sylhet,Moulvibazar,Sreemangal,General Physician,1720197313,Mukti Medical Clinic,FCPS,Neurology
+179,Consultant,Tanvir Mia,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1810144958,Sylhet MAG Osmani Hospital,FRCS,Psychiatry
+180,Consultant,Jamal Rahman,Sylhet,Moulvibazar,Sreemangal,Consultant,1838491444,Mukti Medical Clinic,MBBS,Neurology
+181,Consultant,Jamal Haque,Sylhet,Habiganj,Ajmiriganj,Resident,1596194596,Ajmiriganj Upazila Hospital,MBBS,Nephrology
+182,Medical Officer,Fahmida Islam,Sylhet,Moulvibazar,Kamalganj,General Physician,1774586954,Kamalganj Upazilla Health Complex,MBBS,Gynecology
+183,General Physician,Sharmin Chowdhury,Sylhet,Sylhet,Sylhet Sadar,Medical Officer,1680162596,Sylhet MAG Osmani Hospital,MBBS,Gastroenterology
+184,Medical Officer,Sharmin Begum,Sylhet,Sylhet,Zakiganj,Surgeon,1666004808,Zakiganj Upazila Health Complex,MS,Gynecology
+185,Medical Officer,Sharmin Rahman,Sylhet,Habiganj,Chunarughat,General Physician,1502303610,Chunarughat Upazila Health Complex,MBBS,Gastroenterology
+186,General Physician,Rezaul Mia,Sylhet,Sylhet,Zakiganj,General Physician,1708045556,Zakiganj Upazila Health Complex,MS,General Medicine
+187,General Physician,Nazmul Mia,Sylhet,Sylhet,Zakiganj,Surgeon,1618810701,Zakiganj Upazila Health Complex,MD,General Surgery
+188,Medical Officer,Shahidul Rahman,Sylhet,Sylhet,Zakiganj,Resident,1987058114,Zakiganj Upazila Health Complex,MBBS,Urology
+189,Surgeon,Shamim Islam,Sylhet,Sylhet,Sylhet Sadar,General Physician,1650083525,Sylhet MAG Osmani Hospital,MRCP,Pediatrics
+190,General Physician,Nazmul Ahmed,Sylhet,Sylhet,Sylhet Sadar,General Physician,1545904170,Sylhet MAG Osmani Hospital,MD,Gynecology
+191,Medical Officer,Sharmin Siddique,Sylhet,Moulvibazar,Sreemangal,General Physician,1867989396,Mukti Medical Clinic,FCPS,General Medicine
+192,Resident,Asma Chowdhury,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1699277363,Sylhet MAG Osmani Hospital,MBBS,Pediatrics
+193,Surgeon,Shamim Ahmed,Sylhet,Sylhet,Sylhet Sadar,Surgeon,1852171281,Sylhet MAG Osmani Hospital,MRCP,Dermatology
+194,General Physician,Nazmul Haque,Sylhet,Habiganj,Chunarughat,Medical Officer,1908169639,Chunarughat Upazila Health Complex,FCPS,Urology
+195,Medical Officer,Shahidul Ahmed,Sylhet,Habiganj,Ajmiriganj,General Physician,1976471239,Ajmiriganj Upazila Hospital,MBBS,Gastroenterology
+196,Surgeon,Sharmin Haque,Sylhet,Moulvibazar,Sreemangal,Resident,1612285621,Mukti Medical Clinic,MBBS,Dermatology
+197,Surgeon,Shamim Islam,Sylhet,Habiganj,Chunarughat,Resident,1606512036,Chunarughat Upazila Health Complex,MBBS,Gynecology
+198,Resident,Tanvir Rahman,Sylhet,Moulvibazar,Sreemangal,Consultant,1627681512,Mukti Medical Clinic,MD,Dermatology
+199,Consultant,Tanvir Begum,Sylhet,Sylhet,Zakiganj,Medical Officer,1840733548,Zakiganj Upazila Health Complex,FRCS,Nephrology
+200,Resident,Jamal Sultana,Sylhet,Sylhet,Zakiganj,Resident,1987234158,Zakiganj Upazila Health Complex,FCPS,Gastroenterology
+201,Medical Officer,Fahmida Begum,Chattogram,Chattogram,Halishahar,General Physician,1535770847,Halisahar Biochemic Medical College And Hospital,MS,Dermatology
+202,General Physician,Sharmin Siddique,Chattogram,Cox's Bazar,Teknaf,Consultant,1946840160,Teknaf Upazila Health Complex,FRCS,Ophthalmology
+203,Surgeon,Jamal Hasan,Chattogram,Rangamati,Baghaichhari,General Physician,1977406504,Baghaichhari Upazila Health Complex,MBBS,Pediatrics
+204,Medical Officer,Tanvir Mia,Chattogram,Chattogram,Pahartali,Resident,1809430317,Imperial Hospital Limited,MBBS,Orthopedics
+205,Medical Officer,Shamim Chowdhury,Chattogram,Chattogram,Pahartali,Medical Officer,1673290350,Imperial Hospital Limited,MBBS,Oncology
+206,Surgeon,Lubna Khan,Chattogram,Cox's Bazar,Teknaf,Surgeon,1726612726,Teknaf Upazila Health Complex,MS,General Medicine
+207,Medical Officer,Nazmul Ahmed,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1693740212,Ukhiya Specialized Hospital,FRCS,Gynecology
+208,Surgeon,Asma Begum,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1734316528,Ukhiya Specialized Hospital,FCPS,Dermatology
+209,Medical Officer,Nazmul Hasan,Chattogram,Rangamati,Kaptai,General Physician,1863833555,Christian Hospital Chandraghona,MD,Psychiatry
+210,Medical Officer,Shahidul Islam,Chattogram,Chattogram,Halishahar,Surgeon,1541367594,Halisahar Biochemic Medical College And Hospital,MBBS,Neurology
+211,Surgeon,Lubna Siddique,Chattogram,Cox's Bazar,Teknaf,Medical Officer,1694297972,Teknaf Upazila Health Complex,MS,ENT
+212,Resident,Tanvir Chowdhury,Chattogram,Rangamati,Kaptai,Surgeon,1578393333,Christian Hospital Chandraghona,MBBS,Gastroenterology
+213,General Physician,Asma Khan,Chattogram,Chattogram,Halishahar,General Physician,1941269203,Halisahar Biochemic Medical College And Hospital,FRCS,Gynecology
+214,Medical Officer,Jamal Khan,Chattogram,Rangamati,Baghaichhari,Consultant,1958877206,Baghaichhari Upazila Health Complex,FCPS,Neurology
+215,General Physician,Jamal Rahman,Chattogram,Rangamati,Baghaichhari,Resident,1607209654,Baghaichhari Upazila Health Complex,MRCP,Dermatology
+216,Consultant,Shamim Siddique,Chattogram,Rangamati,Kaptai,Surgeon,1776197665,Christian Hospital Chandraghona,FCPS,ENT
+217,Consultant,Shamim Begum,Chattogram,Rangamati,Kaptai,General Physician,1945779519,Christian Hospital Chandraghona,MS,Neurology
+218,General Physician,Sharmin Begum,Chattogram,Cox's Bazar,Ukhiya,Medical Officer,1803033179,Ukhiya Specialized Hospital,MBBS,Pediatrics
+219,Resident,Shahidul Mia,Chattogram,Rangamati,Baghaichhari,Surgeon,1888517176,Baghaichhari Upazila Health Complex,MS,ENT
+220,Surgeon,Sharmin Rahman,Chattogram,Chattogram,Pahartali,Consultant,1518800007,Imperial Hospital Limited,FCPS,Orthopedics
+221,General Physician,Fahmida Begum,Chattogram,Rangamati,Kaptai,Surgeon,1710756786,Christian Hospital Chandraghona,FCPS,Psychiatry
+222,Consultant,Shamim Sultana,Chattogram,Chattogram,Halishahar,Medical Officer,1877473076,Halisahar Biochemic Medical College And Hospital,MS,Ophthalmology
+223,Surgeon,Jamal Mia,Chattogram,Chattogram,Halishahar,Medical Officer,1791837650,Halisahar Biochemic Medical College And Hospital,FRCS,Pediatrics
+224,Surgeon,Lubna Rahman,Chattogram,Chattogram,Pahartali,Consultant,1635656589,Imperial Hospital Limited,MRCP,General Surgery
+225,Consultant,Shahidul Begum,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1736119636,Ukhiya Specialized Hospital,MRCP,Pediatrics
+226,Resident,Fahmida Chowdhury,Chattogram,Cox's Bazar,Ukhiya,General Physician,1735506678,Ukhiya Specialized Hospital,MS,Gastroenterology
+227,Medical Officer,Sharmin Sultana,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1689798933,Ukhiya Specialized Hospital,MRCP,General Surgery
+228,Medical Officer,Shamim Khan,Chattogram,Cox's Bazar,Teknaf,Resident,1653858564,Teknaf Upazila Health Complex,MD,Neurology
+229,Medical Officer,Shamim Siddique,Chattogram,Rangamati,Kaptai,General Physician,1638615736,Christian Hospital Chandraghona,MS,Gastroenterology
+230,General Physician,Tanvir Chowdhury,Chattogram,Cox's Bazar,Teknaf,Surgeon,1861444340,Teknaf Upazila Health Complex,MBBS,Nephrology
+231,Surgeon,Nazmul Mia,Chattogram,Chattogram,Pahartali,Consultant,1754970804,Imperial Hospital Limited,MD,Orthopedics
+232,Surgeon,Shahidul Rahman,Chattogram,Chattogram,Pahartali,Resident,1860839753,Imperial Hospital Limited,FRCS,Gynecology
+233,Consultant,Nazmul Begum,Chattogram,Cox's Bazar,Ukhiya,General Physician,1741550869,Ukhiya Specialized Hospital,MBBS,Psychiatry
+234,Consultant,Lubna Siddique,Chattogram,Rangamati,Kaptai,Resident,1751215739,Christian Hospital Chandraghona,MS,General Surgery
+235,Consultant,Tanvir Rahman,Chattogram,Cox's Bazar,Teknaf,Consultant,1898704434,Teknaf Upazila Health Complex,MBBS,Orthopedics
+236,Consultant,Shahidul Islam,Chattogram,Rangamati,Baghaichhari,Medical Officer,1526135912,Baghaichhari Upazila Health Complex,MS,General Surgery
+237,Surgeon,Asma Mia,Chattogram,Rangamati,Kaptai,General Physician,1819604416,Christian Hospital Chandraghona,MD,Gynecology
+238,Consultant,Shamim Mia,Chattogram,Chattogram,Halishahar,Resident,1816726760,Halisahar Biochemic Medical College And Hospital,MRCP,Gynecology
+239,Consultant,Sharmin Mia,Chattogram,Chattogram,Pahartali,Surgeon,1898263324,Imperial Hospital Limited,FCPS,Psychiatry
+240,General Physician,Asma Khan,Chattogram,Chattogram,Halishahar,Medical Officer,1601640310,Halisahar Biochemic Medical College And Hospital,MBBS,Oncology
+241,General Physician,Lubna Chowdhury,Chattogram,Cox's Bazar,Ukhiya,General Physician,1971767222,Ukhiya Specialized Hospital,MBBS,General Medicine
+242,Resident,Tanvir Rahman,Chattogram,Rangamati,Kaptai,Surgeon,1952113973,Christian Hospital Chandraghona,MRCP,Nephrology
+243,Consultant,Shamim Haque,Chattogram,Cox's Bazar,Teknaf,Resident,1593067526,Teknaf Upazila Health Complex,FCPS,Ophthalmology
+244,General Physician,Sharmin Rahman,Chattogram,Cox's Bazar,Teknaf,Consultant,1761574640,Teknaf Upazila Health Complex,FRCS,Psychiatry
+245,Surgeon,Shahidul Ahmed,Chattogram,Rangamati,Kaptai,Surgeon,1796139659,Christian Hospital Chandraghona,MS,General Surgery
+246,General Physician,Sharmin Siddique,Chattogram,Rangamati,Baghaichhari,Resident,1826872583,Baghaichhari Upazila Health Complex,FCPS,Orthopedics
+247,Surgeon,Shahidul Hasan,Chattogram,Chattogram,Pahartali,Consultant,1546487861,Imperial Hospital Limited,MS,Urology
+248,Medical Officer,Fahmida Haque,Chattogram,Cox's Bazar,Ukhiya,Consultant,1665443625,Ukhiya Specialized Hospital,MBBS,ENT
+249,Surgeon,Asma Begum,Chattogram,Cox's Bazar,Ukhiya,General Physician,1912478187,Ukhiya Specialized Hospital,MD,General Surgery
+250,General Physician,Jamal Islam,Chattogram,Rangamati,Kaptai,Consultant,1991281484,Christian Hospital Chandraghona,MS,Orthopedics
+251,General Physician,Rezaul Mia,Chattogram,Rangamati,Baghaichhari,Resident,1891731178,Baghaichhari Upazila Health Complex,MD,Oncology
+252,Consultant,Fahmida Sultana,Chattogram,Chattogram,Pahartali,Consultant,1542729463,Imperial Hospital Limited,MS,Oncology
+253,Medical Officer,Sharmin Mia,Chattogram,Cox's Bazar,Ukhiya,General Physician,1854059531,Ukhiya Specialized Hospital,MBBS,Ophthalmology
+254,Resident,Fahmida Ahmed,Chattogram,Chattogram,Halishahar,Resident,1681763679,Halisahar Biochemic Medical College And Hospital,MRCP,General Medicine
+255,Resident,Shahidul Khan,Chattogram,Cox's Bazar,Teknaf,Consultant,1647137221,Teknaf Upazila Health Complex,MBBS,Gynecology
+256,Consultant,Nazmul Begum,Chattogram,Cox's Bazar,Ukhiya,Resident,1890807392,Ukhiya Specialized Hospital,MD,Urology
+257,Consultant,Fahmida Mia,Chattogram,Rangamati,Baghaichhari,General Physician,1842720069,Baghaichhari Upazila Health Complex,MRCP,Neurology
+258,Surgeon,Shamim Islam,Chattogram,Cox's Bazar,Ukhiya,General Physician,1722141435,Ukhiya Specialized Hospital,MRCP,Urology
+259,Surgeon,Jamal Rahman,Chattogram,Chattogram,Pahartali,Medical Officer,1866035737,Imperial Hospital Limited,MD,Neurology
+260,Medical Officer,Asma Islam,Chattogram,Chattogram,Halishahar,General Physician,1962857354,Halisahar Biochemic Medical College And Hospital,FRCS,Dermatology
+261,Surgeon,Shamim Islam,Chattogram,Chattogram,Pahartali,Consultant,1780750208,Imperial Hospital Limited,MS,Dermatology
+262,General Physician,Asma Sultana,Chattogram,Rangamati,Baghaichhari,Medical Officer,1653921211,Baghaichhari Upazila Health Complex,MS,Gynecology
+263,Medical Officer,Lubna Siddique,Chattogram,Rangamati,Kaptai,Resident,1771713317,Christian Hospital Chandraghona,MS,General Medicine
+264,Surgeon,Asma Chowdhury,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1997738944,Ukhiya Specialized Hospital,MD,ENT
+265,Medical Officer,Rezaul Begum,Chattogram,Cox's Bazar,Teknaf,Medical Officer,1874562665,Teknaf Upazila Health Complex,MS,Gastroenterology
+266,Resident,Lubna Mia,Chattogram,Chattogram,Halishahar,Resident,1756237768,Halisahar Biochemic Medical College And Hospital,MD,Gynecology
+267,General Physician,Jamal Islam,Chattogram,Rangamati,Kaptai,Consultant,1897898220,Christian Hospital Chandraghona,MRCP,Oncology
+268,Consultant,Shamim Siddique,Chattogram,Chattogram,Pahartali,Consultant,1602144472,Imperial Hospital Limited,MRCP,Gynecology
+269,Consultant,Lubna Chowdhury,Chattogram,Rangamati,Kaptai,Consultant,1539125559,Christian Hospital Chandraghona,MD,General Medicine
+270,General Physician,Sharmin Sultana,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1544838602,Ukhiya Specialized Hospital,FCPS,General Medicine
+271,Consultant,Shahidul Haque,Chattogram,Cox's Bazar,Teknaf,Consultant,1792256423,Teknaf Upazila Health Complex,MS,Oncology
+272,Surgeon,Shamim Ahmed,Chattogram,Cox's Bazar,Ukhiya,Resident,1596600899,Ukhiya Specialized Hospital,FCPS,Dermatology
+273,Consultant,Shamim Islam,Chattogram,Cox's Bazar,Teknaf,Consultant,1853937961,Teknaf Upazila Health Complex,MD,Gastroenterology
+274,Surgeon,Shahidul Ahmed,Chattogram,Rangamati,Kaptai,Resident,1891118835,Christian Hospital Chandraghona,MD,Pediatrics
+275,Resident,Fahmida Siddique,Chattogram,Chattogram,Halishahar,Surgeon,1725677951,Halisahar Biochemic Medical College And Hospital,MS,Dermatology
+276,Surgeon,Sharmin Sultana,Chattogram,Cox's Bazar,Ukhiya,Surgeon,1713844932,Ukhiya Specialized Hospital,MS,Dermatology
+277,General Physician,Lubna Islam,Chattogram,Chattogram,Pahartali,Medical Officer,1571161746,Imperial Hospital Limited,MBBS,Ophthalmology
+278,Consultant,Sharmin Chowdhury,Chattogram,Cox's Bazar,Ukhiya,General Physician,1895677062,Ukhiya Specialized Hospital,FRCS,Pediatrics
+279,Medical Officer,Tanvir Ahmed,Chattogram,Cox's Bazar,Ukhiya,Resident,1642716347,Ukhiya Specialized Hospital,MBBS,Urology
+280,Surgeon,Lubna Khan,Chattogram,Rangamati,Baghaichhari,Surgeon,1992255604,Baghaichhari Upazila Health Complex,MBBS,Pediatrics
+281,General Physician,Fahmida Sultana,Chattogram,Rangamati,Baghaichhari,Consultant,1872078153,Baghaichhari Upazila Health Complex,MS,Dermatology
+282,General Physician,Sharmin Haque,Chattogram,Rangamati,Kaptai,General Physician,1977281200,Christian Hospital Chandraghona,MD,Dermatology
+283,Medical Officer,Tanvir Islam,Chattogram,Chattogram,Halishahar,Resident,1922109804,Halisahar Biochemic Medical College And Hospital,MS,Dermatology
+284,Surgeon,Shamim Haque,Chattogram,Cox's Bazar,Ukhiya,Medical Officer,1815133190,Ukhiya Specialized Hospital,MS,Orthopedics
+285,Surgeon,Shahidul Sultana,Chattogram,Cox's Bazar,Ukhiya,Consultant,1989761036,Ukhiya Specialized Hospital,FCPS,Psychiatry
+286,General Physician,Sharmin Khan,Chattogram,Cox's Bazar,Teknaf,Surgeon,1506707002,Teknaf Upazila Health Complex,FCPS,General Surgery
+287,General Physician,Fahmida Mia,Chattogram,Chattogram,Halishahar,Resident,1870406070,Halisahar Biochemic Medical College And Hospital,MBBS,Gynecology
+288,Surgeon,Sharmin Ahmed,Chattogram,Rangamati,Baghaichhari,Consultant,1807581021,Baghaichhari Upazila Health Complex,MBBS,Gastroenterology
+289,Resident,Asma Sultana,Chattogram,Rangamati,Baghaichhari,Resident,1830925509,Baghaichhari Upazila Health Complex,MS,Oncology
+290,Surgeon,Jamal Mia,Chattogram,Chattogram,Pahartali,Resident,1523255567,Imperial Hospital Limited,MRCP,Gastroenterology
+291,General Physician,Nazmul Sultana,Chattogram,Cox's Bazar,Teknaf,Consultant,1535332083,Teknaf Upazila Health Complex,MD,Psychiatry
+292,General Physician,Fahmida Rahman,Chattogram,Rangamati,Baghaichhari,General Physician,1895244667,Baghaichhari Upazila Health Complex,MRCP,Psychiatry
+293,Consultant,Tanvir Ahmed,Chattogram,Cox's Bazar,Ukhiya,Consultant,1763381359,Ukhiya Specialized Hospital,MBBS,General Surgery
+294,Consultant,Rezaul Mia,Chattogram,Rangamati,Kaptai,Surgeon,1721650340,Christian Hospital Chandraghona,MBBS,Dermatology
+295,General Physician,Tanvir Islam,Chattogram,Rangamati,Kaptai,Surgeon,1711381011,Christian Hospital Chandraghona,MS,Urology
+296,Surgeon,Lubna Siddique,Chattogram,Cox's Bazar,Teknaf,Resident,1743693016,Teknaf Upazila Health Complex,FCPS,ENT
+297,Surgeon,Rezaul Islam,Chattogram,Rangamati,Baghaichhari,General Physician,1723730224,Baghaichhari Upazila Health Complex,FCPS,Oncology
+298,General Physician,Rezaul Sultana,Chattogram,Rangamati,Baghaichhari,Surgeon,1951964399,Baghaichhari Upazila Health Complex,MS,General Medicine
+299,Surgeon,Tanvir Khan,Chattogram,Cox's Bazar,Teknaf,Resident,1659034783,Teknaf Upazila Health Complex,MS,Ophthalmology
+300,Medical Officer,Fahmida Ahmed,Chattogram,Rangamati,Kaptai,Medical Officer,1595991829,Christian Hospital Chandraghona,MS,Gastroenterology
+301,Medical Officer,Asma Chowdhury,Khulna,Khulna,Dacope,Consultant,1859815586,"Upazilla Health Complex, Dacope, Khulna",MD,General Medicine
+302,Surgeon,Shamim Rahman,Khulna,Khulna,Batiaghata,Resident,1660779270,Batiaghata Upazilla Health Complex,FRCS,Gastroenterology
+303,General Physician,Rezaul Ahmed,Khulna,Bagerhat,Mongla,Resident,1993674620,"Mongla Upazila Health Complex, Bagerhat",FRCS,Neurology
+304,General Physician,Jamal Ahmed,Khulna,Khulna,Batiaghata,Medical Officer,1814715358,Batiaghata Upazilla Health Complex,FCPS,Neurology
+305,Consultant,Sharmin Ahmed,Khulna,Satkhira,Shyamnagar,Consultant,1699646714,Friendship Hospital Shyamnagar,MS,Ophthalmology
+306,Surgeon,Tanvir Siddique,Khulna,Khulna,Batiaghata,Medical Officer,1690120555,Batiaghata Upazilla Health Complex,MBBS,Pediatrics
+307,General Physician,Sharmin Sultana,Khulna,Khulna,Dacope,Consultant,1752849352,"Upazilla Health Complex, Dacope, Khulna",FCPS,Orthopedics
+308,General Physician,Tanvir Siddique,Khulna,Khulna,Batiaghata,Medical Officer,1538953939,Batiaghata Upazilla Health Complex,MRCP,ENT
+309,Surgeon,Tanvir Siddique,Khulna,Bagerhat,Mongla,Medical Officer,1517196253,"Mongla Upazila Health Complex, Bagerhat",FCPS,Urology
+310,Resident,Shamim Ahmed,Khulna,Bagerhat,Rampal,Resident,1679439608,Baruipara Community Clinic and Boro Sannashi Community Clinic,MD,General Surgery
+311,General Physician,Lubna Siddique,Khulna,Bagerhat,Mongla,Consultant,1567769293,"Mongla Upazila Health Complex, Bagerhat",MBBS,Urology
+312,Surgeon,Jamal Ahmed,Khulna,Satkhira,Tala,Resident,1829792265,Tala Upazilla Health Complex,FCPS,Dermatology
+313,Consultant,Rezaul Rahman,Khulna,Khulna,Batiaghata,Consultant,1722730695,Batiaghata Upazilla Health Complex,MRCP,Urology
+314,Surgeon,Sharmin Ahmed,Khulna,Satkhira,Shyamnagar,General Physician,1796525089,Friendship Hospital Shyamnagar,MRCP,Gynecology
+315,Resident,Lubna Begum,Khulna,Satkhira,Shyamnagar,Resident,1835083253,Friendship Hospital Shyamnagar,MS,General Surgery
+316,Resident,Fahmida Rahman,Khulna,Khulna,Batiaghata,Medical Officer,1776842115,Batiaghata Upazilla Health Complex,MS,Neurology
+317,Resident,Sharmin Siddique,Khulna,Khulna,Batiaghata,Surgeon,1847376583,Batiaghata Upazilla Health Complex,MS,Ophthalmology
+318,Consultant,Asma Begum,Khulna,Satkhira,Shyamnagar,Surgeon,1943422229,Friendship Hospital Shyamnagar,MS,General Medicine
+319,General Physician,Fahmida Rahman,Khulna,Satkhira,Tala,Consultant,1994739190,Tala Upazilla Health Complex,FCPS,Pediatrics
+320,Consultant,Sharmin Rahman,Khulna,Satkhira,Tala,Surgeon,1564158741,Tala Upazilla Health Complex,FRCS,Dermatology
+321,Consultant,Rezaul Begum,Khulna,Satkhira,Tala,Surgeon,1788526996,Tala Upazilla Health Complex,MRCP,Gastroenterology
+322,Consultant,Lubna Mia,Khulna,Bagerhat,Mongla,General Physician,1725178185,"Mongla Upazila Health Complex, Bagerhat",FRCS,Urology
+323,Surgeon,Jamal Islam,Khulna,Satkhira,Tala,Resident,1944827448,Tala Upazilla Health Complex,MBBS,Gynecology
+324,General Physician,Nazmul Rahman,Khulna,Bagerhat,Rampal,Consultant,1701984928,Baruipara Community Clinic and Boro Sannashi Community Clinic,FCPS,Psychiatry
+325,General Physician,Sharmin Chowdhury,Khulna,Satkhira,Shyamnagar,Surgeon,1613287495,Friendship Hospital Shyamnagar,MD,Pediatrics
+326,Medical Officer,Nazmul Khan,Khulna,Khulna,Batiaghata,Consultant,1724773942,Batiaghata Upazilla Health Complex,MS,Neurology
+327,General Physician,Jamal Mia,Khulna,Bagerhat,Rampal,Resident,1812406002,Baruipara Community Clinic and Boro Sannashi Community Clinic,MS,Orthopedics
+328,Surgeon,Tanvir Mia,Khulna,Khulna,Dacope,General Physician,1933173787,"Upazilla Health Complex, Dacope, Khulna",MRCP,Gastroenterology
+329,General Physician,Rezaul Ahmed,Khulna,Khulna,Batiaghata,Consultant,1789151931,Batiaghata Upazilla Health Complex,MS,Gastroenterology
+330,General Physician,Tanvir Chowdhury,Khulna,Bagerhat,Mongla,Consultant,1883417024,"Mongla Upazila Health Complex, Bagerhat",MRCP,General Surgery
+331,General Physician,Shahidul Haque,Khulna,Satkhira,Tala,General Physician,1755137017,Tala Upazilla Health Complex,MRCP,Dermatology
+332,Surgeon,Nazmul Chowdhury,Khulna,Khulna,Batiaghata,General Physician,1858512923,Batiaghata Upazilla Health Complex,MD,General Surgery
+333,General Physician,Sharmin Chowdhury,Khulna,Bagerhat,Rampal,Resident,1506988490,Baruipara Community Clinic and Boro Sannashi Community Clinic,FCPS,Nephrology
+334,Medical Officer,Rezaul Chowdhury,Khulna,Bagerhat,Mongla,General Physician,1689740072,"Mongla Upazila Health Complex, Bagerhat",MRCP,Urology
+335,Consultant,Rezaul Islam,Khulna,Khulna,Batiaghata,Medical Officer,1629757755,Batiaghata Upazilla Health Complex,FRCS,General Medicine
+336,Consultant,Shahidul Islam,Khulna,Satkhira,Shyamnagar,Resident,1575259582,Friendship Hospital Shyamnagar,MS,Pediatrics
+337,Medical Officer,Lubna Haque,Khulna,Khulna,Batiaghata,Surgeon,1765650466,Batiaghata Upazilla Health Complex,MD,Dermatology
+338,Consultant,Lubna Begum,Khulna,Khulna,Batiaghata,Consultant,1875520179,Batiaghata Upazilla Health Complex,MD,Gastroenterology
+339,Surgeon,Shamim Chowdhury,Khulna,Bagerhat,Mongla,Medical Officer,1552105946,"Mongla Upazila Health Complex, Bagerhat",MBBS,Oncology
+340,Medical Officer,Lubna Begum,Khulna,Bagerhat,Mongla,Medical Officer,1859324014,"Mongla Upazila Health Complex, Bagerhat",MBBS,Urology
+341,Surgeon,Shamim Chowdhury,Khulna,Bagerhat,Rampal,Consultant,1719275770,Baruipara Community Clinic and Boro Sannashi Community Clinic,MD,Psychiatry
+342,Medical Officer,Sharmin Rahman,Khulna,Khulna,Dacope,Consultant,1553303376,"Upazilla Health Complex, Dacope, Khulna",MBBS,Nephrology
+343,General Physician,Rezaul Hasan,Khulna,Khulna,Dacope,Surgeon,1670618821,"Upazilla Health Complex, Dacope, Khulna",FCPS,Psychiatry
+344,Medical Officer,Rezaul Chowdhury,Khulna,Satkhira,Shyamnagar,Consultant,1793730511,Friendship Hospital Shyamnagar,MRCP,Gynecology
+345,General Physician,Shamim Islam,Khulna,Bagerhat,Rampal,General Physician,1999827899,Baruipara Community Clinic and Boro Sannashi Community Clinic,MBBS,General Surgery
+346,Surgeon,Asma Chowdhury,Khulna,Bagerhat,Rampal,Medical Officer,1625914564,Baruipara Community Clinic and Boro Sannashi Community Clinic,MS,Dermatology
+347,Medical Officer,Nazmul Mia,Khulna,Satkhira,Tala,Medical Officer,1592168119,Tala Upazilla Health Complex,MD,Gastroenterology
+348,Surgeon,Jamal Khan,Khulna,Satkhira,Tala,Medical Officer,1788872137,Tala Upazilla Health Complex,MRCP,ENT
+349,Medical Officer,Sharmin Haque,Khulna,Satkhira,Tala,Resident,1799109381,Tala Upazilla Health Complex,MRCP,Ophthalmology
+350,General Physician,Rezaul Siddique,Khulna,Khulna,Batiaghata,General Physician,1866897884,Batiaghata Upazilla Health Complex,FRCS,Gastroenterology
+351,General Physician,Sharmin Rahman,Khulna,Bagerhat,Rampal,Medical Officer,1951067058,Baruipara Community Clinic and Boro Sannashi Community Clinic,MBBS,ENT
+352,Medical Officer,Tanvir Chowdhury,Khulna,Satkhira,Tala,Consultant,1886653119,Tala Upazilla Health Complex,FCPS,Neurology
+353,Surgeon,Jamal Siddique,Khulna,Bagerhat,Rampal,General Physician,1915176400,Baruipara Community Clinic and Boro Sannashi Community Clinic,FRCS,Oncology
+354,Surgeon,Jamal Mia,Khulna,Satkhira,Shyamnagar,Medical Officer,1570659197,Friendship Hospital Shyamnagar,MD,Pediatrics
+355,Surgeon,Shamim Siddique,Khulna,Khulna,Batiaghata,Surgeon,1832199765,Batiaghata Upazilla Health Complex,MD,Psychiatry
+356,Medical Officer,Tanvir Islam,Khulna,Khulna,Batiaghata,Consultant,1606526732,Batiaghata Upazilla Health Complex,FCPS,Gynecology
+357,Medical Officer,Tanvir Rahman,Khulna,Satkhira,Tala,General Physician,1729955058,Tala Upazilla Health Complex,MRCP,General Surgery
+358,Consultant,Sharmin Ahmed,Khulna,Satkhira,Tala,Resident,1974690892,Tala Upazilla Health Complex,MBBS,Psychiatry
+359,Resident,Fahmida Siddique,Khulna,Khulna,Batiaghata,Consultant,1714241579,Batiaghata Upazilla Health Complex,MBBS,Orthopedics
+360,Consultant,Sharmin Islam,Khulna,Khulna,Dacope,Medical Officer,1796159981,"Upazilla Health Complex, Dacope, Khulna",MS,General Surgery
+361,Consultant,Lubna Haque,Khulna,Bagerhat,Rampal,Surgeon,1615752202,Baruipara Community Clinic and Boro Sannashi Community Clinic,MD,Gynecology
+362,Surgeon,Sharmin Sultana,Khulna,Khulna,Dacope,Consultant,1891148115,"Upazilla Health Complex, Dacope, Khulna",MS,Gastroenterology
+363,General Physician,Lubna Siddique,Khulna,Khulna,Batiaghata,Consultant,1541515194,Batiaghata Upazilla Health Complex,MS,ENT
+364,Resident,Nazmul Rahman,Khulna,Khulna,Batiaghata,Surgeon,1700404256,Batiaghata Upazilla Health Complex,FRCS,Ophthalmology
+365,Medical Officer,Rezaul Siddique,Khulna,Bagerhat,Mongla,Consultant,1580097829,"Mongla Upazila Health Complex, Bagerhat",FRCS,Oncology
+366,Consultant,Lubna Begum,Khulna,Satkhira,Shyamnagar,Medical Officer,1664312708,Friendship Hospital Shyamnagar,MS,Urology
+367,General Physician,Shamim Rahman,Khulna,Khulna,Dacope,Consultant,1595042506,"Upazilla Health Complex, Dacope, Khulna",MRCP,Ophthalmology
+368,Surgeon,Tanvir Chowdhury,Khulna,Bagerhat,Rampal,General Physician,1888803624,Baruipara Community Clinic and Boro Sannashi Community Clinic,MD,Pediatrics
+369,Surgeon,Shahidul Mia,Khulna,Bagerhat,Rampal,Surgeon,1529600842,Baruipara Community Clinic and Boro Sannashi Community Clinic,MBBS,Psychiatry
+370,General Physician,Shahidul Khan,Khulna,Satkhira,Tala,Surgeon,1588568460,Tala Upazilla Health Complex,FRCS,General Surgery
+371,Surgeon,Shahidul Ahmed,Khulna,Khulna,Batiaghata,Resident,1650665141,Batiaghata Upazilla Health Complex,MD,Gastroenterology
+372,Medical Officer,Jamal Haque,Khulna,Satkhira,Shyamnagar,Surgeon,1755331304,Friendship Hospital Shyamnagar,MD,Pediatrics
+373,Medical Officer,Lubna Begum,Khulna,Khulna,Batiaghata,Surgeon,1546531683,Batiaghata Upazilla Health Complex,MBBS,Neurology
+374,Surgeon,Rezaul Chowdhury,Khulna,Bagerhat,Rampal,Surgeon,1518618062,Baruipara Community Clinic and Boro Sannashi Community Clinic,MD,ENT
+375,Resident,Lubna Begum,Khulna,Satkhira,Shyamnagar,Consultant,1737560835,Friendship Hospital Shyamnagar,MBBS,Gastroenterology
+376,General Physician,Asma Begum,Khulna,Satkhira,Shyamnagar,Medical Officer,1534634961,Friendship Hospital Shyamnagar,FRCS,Gynecology
+377,Resident,Tanvir Siddique,Khulna,Khulna,Dacope,Medical Officer,1737680733,"Upazilla Health Complex, Dacope, Khulna",FCPS,General Medicine
+378,Resident,Rezaul Khan,Khulna,Bagerhat,Rampal,Medical Officer,1683531249,Baruipara Community Clinic and Boro Sannashi Community Clinic,MS,Gastroenterology
+379,Resident,Fahmida Siddique,Khulna,Khulna,Dacope,Resident,1737122222,"Upazilla Health Complex, Dacope, Khulna",MRCP,Ophthalmology
+380,Medical Officer,Jamal Mia,Khulna,Khulna,Batiaghata,Resident,1891499024,Batiaghata Upazilla Health Complex,FCPS,ENT
+381,General Physician,Tanvir Ahmed,Khulna,Khulna,Batiaghata,Resident,1716762661,Batiaghata Upazilla Health Complex,FRCS,Gastroenterology
+382,Consultant,Jamal Rahman,Khulna,Khulna,Batiaghata,Resident,1885741933,Batiaghata Upazilla Health Complex,MRCP,Gastroenterology
+383,General Physician,Shamim Ahmed,Khulna,Satkhira,Tala,Consultant,1627712456,Tala Upazilla Health Complex,MS,ENT
+384,Medical Officer,Asma Begum,Khulna,Khulna,Dacope,Consultant,1610217160,"Upazilla Health Complex, Dacope, Khulna",MRCP,Oncology
+385,Surgeon,Rezaul Ahmed,Khulna,Bagerhat,Rampal,Resident,1802734375,Baruipara Community Clinic and Boro Sannashi Community Clinic,FCPS,Oncology
+386,Surgeon,Lubna Begum,Khulna,Satkhira,Shyamnagar,Resident,1770450179,Friendship Hospital Shyamnagar,MRCP,Gastroenterology
+387,Resident,Shamim Haque,Khulna,Bagerhat,Mongla,Medical Officer,1986270832,"Mongla Upazila Health Complex, Bagerhat",MBBS,Neurology
+388,General Physician,Sharmin Begum,Khulna,Khulna,Dacope,Consultant,1813443005,"Upazilla Health Complex, Dacope, Khulna",FCPS,Gastroenterology
+389,Consultant,Asma Sultana,Khulna,Satkhira,Tala,Medical Officer,1588459956,Tala Upazilla Health Complex,FRCS,Nephrology
+390,Surgeon,Nazmul Mia,Khulna,Khulna,Batiaghata,Surgeon,1993808015,Batiaghata Upazilla Health Complex,MD,ENT
+391,Surgeon,Sharmin Haque,Khulna,Bagerhat,Rampal,Surgeon,1500915088,Baruipara Community Clinic and Boro Sannashi Community Clinic,MRCP,Gastroenterology
+392,Medical Officer,Asma Sultana,Khulna,Bagerhat,Rampal,Medical Officer,1564161184,Baruipara Community Clinic and Boro Sannashi Community Clinic,FRCS,Ophthalmology
+393,General Physician,Nazmul Islam,Khulna,Khulna,Batiaghata,Resident,1707186690,Batiaghata Upazilla Health Complex,MRCP,Urology
+394,Resident,Nazmul Haque,Khulna,Satkhira,Shyamnagar,Resident,1666287372,Friendship Hospital Shyamnagar,FRCS,Psychiatry
+395,Medical Officer,Fahmida Begum,Khulna,Satkhira,Shyamnagar,Medical Officer,1943707071,Friendship Hospital Shyamnagar,MD,Psychiatry
+396,Medical Officer,Fahmida Sultana,Khulna,Bagerhat,Rampal,Surgeon,1847351531,Baruipara Community Clinic and Boro Sannashi Community Clinic,MD,Ophthalmology
+397,Consultant,Asma Sultana,Khulna,Satkhira,Shyamnagar,Medical Officer,1514762441,Friendship Hospital Shyamnagar,MD,Oncology
+398,General Physician,Sharmin Sultana,Khulna,Satkhira,Shyamnagar,Surgeon,1787290704,Friendship Hospital Shyamnagar,MBBS,Oncology
+399,General Physician,Fahmida Sultana,Khulna,Satkhira,Shyamnagar,General Physician,1664724055,Friendship Hospital Shyamnagar,MD,Pediatrics
+400,Consultant,Fahmida Begum,Khulna,Satkhira,Shyamnagar,General Physician,1556560337,Friendship Hospital Shyamnagar,MD,Urology

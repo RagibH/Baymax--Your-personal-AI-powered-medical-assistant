@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite3
+.DS_Store
+*.log
+prescription_model.keras
+diabetes_model.joblib
+tempCodeRunnerFile.*
